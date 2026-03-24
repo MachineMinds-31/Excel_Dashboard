@@ -1,5 +1,5 @@
 # Excel_Dashboard
-# 🚀 HSSE Violation Dashboard (Excel + Power Query)
+# 🚀 Dashboard (Excel + Power Query)
 
 ## 📌 Overview
 This project is an automated HSSE (Health, Safety, Security & Environment) dashboard built using Excel and Power Query.
